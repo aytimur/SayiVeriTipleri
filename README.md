@@ -1,0 +1,2 @@
+# SayiVeriTipleri
+ SayiVeriTipleri eklendi
